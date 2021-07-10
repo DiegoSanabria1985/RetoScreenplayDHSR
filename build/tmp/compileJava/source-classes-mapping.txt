@@ -8,11 +8,11 @@ com/demoqa/automation/models/DataInjections.java
  com.demoqa.automation.models.DataInjections
 com/demoqa/automation/questions/PresenceElements.java
  com.demoqa.automation.questions.PresenceElements
-com/demoqa/automation/taks/FillAllsValidations.java
- com.demoqa.automation.taks.FillAllsValidations
-com/demoqa/automation/ui/HomePage.java
- com.demoqa.automation.ui.HomePage
 com/demoqa/automation/utils/UploadPicture.java
  com.demoqa.automation.utils.UploadPicture
+com/demoqa/automation/ui/HomePage.java
+ com.demoqa.automation.ui.HomePage
+com/demoqa/automation/taks/FillAllsValidations.java
+ com.demoqa.automation.taks.FillAllsValidations
 com/demoqa/automation/taks/FillPage.java
  com.demoqa.automation.taks.FillPage

@@ -66,10 +66,10 @@ public class DataInjections {
         this.fileImput = faker.expression("imagen.png");
         this.addres = faker.expression("carrera 24 # 45-56");
         this.validacion = faker.expression("Thanks for submitting the form");
-        this.valida = faker.expression("State and City");
+        this.valida = faker.expression("Thanks for submitting the form");
         this.estate = faker.expression("Uttar Pradesh");
         this.subject = faker.expression("nuevo");
-        this.extensionvalidation = "State and City";
+        this.extensionvalidation = "Thanks for submitting the form";
 
     }
 }

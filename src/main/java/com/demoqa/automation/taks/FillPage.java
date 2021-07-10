@@ -31,7 +31,9 @@ public class FillPage implements Task {
                 Enter.theValue(dataInjections.getNumber()).into(HomePage.MOBILE_NUMBER),
                 Enter.keyValues(UploadPicture.filePath(dataInjections.getFileImput())).into(HomePage.PICTURE),
                 JavaScriptClick.on(HomePage.CHECK_HOBBIES),
-                Enter.theValue(dataInjections.getAddres()).into(HomePage.CURRENT_ADDRESS)
+                Enter.theValue(dataInjections.getAddres()).into(HomePage.CURRENT_ADDRESS),
+                JavaScriptClick.on(HomePage.SUBMIT),
+                JavaScriptClick.on(HomePage.CLOSE)
         );
 
 

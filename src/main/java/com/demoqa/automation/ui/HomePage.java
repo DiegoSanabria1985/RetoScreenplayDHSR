@@ -14,8 +14,9 @@ public class HomePage {
     public static final Target CHECK_HOBBIES = Target.the("input hobbies").located(By.id("hobbies-checkbox-1"));
     public static final Target PICTURE = Target.the("select picture").located(By.id("uploadPicture"));
     public static final Target CURRENT_ADDRESS = Target.the("input address").located(By.id("currentAddress"));
-    public static final Target VALIDATION = Target.the("located to validation").located(By.id("stateCity-label"));
     public static final Target SUBMIT = Target.the("select send").located(By.id("submit"));
+    public static final Target VALIDATION = Target.the("located to validation").located(By.id("stateCity-label"));
+    public static final Target CLOSE = Target.the("click in close").located(By.id("closeLargeModal"));
 
 
 
